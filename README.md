@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
 ![Samim Hakimi github stats](https://github-readme-stats.vercel.app/api?username=Samimhakimi&show_icons=true)
 
-<br/>
-<br/>
-![](https://komarev.com/ghpvc/?username=samimhakimi&color=green)
+
+![](https://komarev.com/ghpvc/?username=SamimHakimi&color=green)
