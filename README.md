@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ### - ⚡ Fun fact: Expecting to find all learning resources in one place is like expecting to determine position and momentum of an electron simultaneously
 
 ![Samim Hakimi github stats](https://github-readme-stats.vercel.app/api?username=Samimhakimi&show_icons=true)
+
+<br/>
+<br/>
+![](https://komarev.com/ghpvc/?username=Samimhakimi)
