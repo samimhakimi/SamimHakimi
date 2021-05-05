@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-![](https://komarev.com/ghpvc/?username=Samimhakimi)
+![](https://komarev.com/ghpvc/?username=samimhakimi&color=green)
